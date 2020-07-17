@@ -1,7 +1,7 @@
 # Cryptography
 A simple implementation of Playfair Cipher
 
-## Command to run
+## Commands to run
 ### Encryption - 
 ``` 
 $ g++ playfair.cpp
